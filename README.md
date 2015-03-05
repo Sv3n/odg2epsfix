@@ -1,5 +1,5 @@
 # odg2epsfix
-Remove bug pixel in libreoffice draw eps export output.
+Remove bug pixels in libreoffice draw eps export output. They most prominently show up in the corner points of rectangles with rounded edges, but seem to be present in most shapes.
 
 See https://bugs.launchpad.net/ubuntu/+source/openoffice.org/+bug/689349 for more info.
 
