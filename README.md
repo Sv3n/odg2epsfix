@@ -15,3 +15,9 @@ I've modified it further to filter out some more false positives.
 ```
     fixeps.awk myfile.eps > myfile.fix.eps
 ```
+
+## Result
+Before:
+![](https://raw.githubusercontent.com/Sv3n/odg2epsfix/master/example/test.pdf.png)
+After:
+![](https://raw.githubusercontent.com/Sv3n/odg2epsfix/master/example/test_fix.pdf.png)
